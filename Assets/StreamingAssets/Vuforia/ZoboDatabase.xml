@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ferrari-sf90-xx-stradale-2024-yellow-118-18-16020-bburago" size="4.000000 5.170909" />
+    <ImageTarget name="bmwe36" size="6.000000 4.000800" />
+    <ImageTarget name="mazdarx7" size="8.000000 8.000000" />
+    <ImageTarget name="ferrarif40" size="20.000000 11.760000" />
+  </Tracking>
+</QCARConfig>
